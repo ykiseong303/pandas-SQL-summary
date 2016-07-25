@@ -35,3 +35,5 @@
     - Output(Read) csv to DataFrame
     - String Contains
     - Sorting
+    
+9. Change value type
