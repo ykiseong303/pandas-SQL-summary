@@ -37,3 +37,5 @@
     - Sorting
     
 9. Change value type
+
+10. Get element of Series on index
